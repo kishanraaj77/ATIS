@@ -1,7 +1,6 @@
 # ATIS.keras
 Spoken Language Understanding(SLU)/Slot Filling in Keras. 
-
-Blog post is available here: https://chsasank.github.io/spoken-language-understanding.html
+ 
 
 Tutorial Implements RNNs in Keras to solve the Airline Travel Information System(ATIS) dataset.
 
